@@ -29,6 +29,6 @@ public class UsuarioService {
 
     public void atualizarUsuarioPorEmail(String email, Usuario usuario){
         Usuario usuarioEntity = buscarUsuarioPorEmail(email);
-        usuarioEntity.
+
     }
 }
